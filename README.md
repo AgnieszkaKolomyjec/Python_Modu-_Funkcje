@@ -1,2 +1,2 @@
-# Python_Modu-_Funkcje
+# Python_ML_nauka
 Zadania_kalkulatory z modułu Funkcje
